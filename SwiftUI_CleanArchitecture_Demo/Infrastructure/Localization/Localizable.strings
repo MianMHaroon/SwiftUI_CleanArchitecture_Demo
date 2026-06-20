@@ -1,0 +1,70 @@
+/* Tabs */
+"tab.discover" = "Discover";
+"tab.favorites" = "Favorites";
+"tab.trending" = "Trending";
+"tab.settings" = "Settings";
+
+/* Discover & Search */
+"discover.title" = "Discover";
+"search.placeholder" = "Search repositories";
+"search.idle.title" = "Search GitHub";
+"search.idle.message" = "Enter a query to find repositories.";
+"search.loading" = "Searching repositories...";
+"search.empty.title" = "No Results";
+"search.empty.message" = "Try a different search term.";
+
+/* Repository */
+"repository.stats.title" = "Statistics";
+"repository.owner.title" = "Owner";
+
+/* Owner */
+"owner.title" = "Owner";
+
+/* Favorites */
+"favorites.title" = "Favorites";
+"favorites.loading" = "Loading favorites...";
+"favorites.empty.title" = "No Favorites Yet";
+"favorites.empty.message" = "Save repositories from the detail screen.";
+"favorites.saved" = "Repository saved to favorites.";
+"favorites.removed" = "Repository removed from favorites.";
+"favorites.remove.from_tab" = "Remove favorites from the Favorites tab.";
+"favorites.remove.hint" = "Tap the star again to remove from favorites.";
+
+/* Trending */
+"trending.title" = "Trending";
+"trending.empty" = "No repositories found for this topic.";
+
+/* Settings */
+"settings.title" = "Settings";
+"settings.section.app" = "App";
+"settings.section.actions" = "Actions";
+"settings.section.appearance" = "Appearance";
+"settings.version" = "Version";
+"settings.network" = "Network";
+"settings.network.online" = "Online";
+"settings.network.offline" = "Offline";
+"settings.clear_cache" = "Clear Cache";
+"settings.cache_cleared" = "Cache cleared successfully.";
+"settings.api_docs" = "GitHub API Documentation";
+"settings.theme" = "Theme";
+"settings.theme.placeholder" = "System (Coming Soon)";
+"settings.info.title" = "Info";
+"settings.info.placeholder" = "Additional settings details will appear here.";
+
+/* Actions */
+"action.ok" = "OK";
+"action.retry" = "Retry";
+"action.remove" = "Remove";
+
+/* Errors */
+"error.title" = "Error";
+"error.invalid_url" = "The request URL is invalid.";
+"error.invalid_response" = "The server returned an invalid response.";
+"error.http" = "Request failed with status code %d.";
+"error.decoding_failed" = "Unable to read the server response.";
+"error.network_unavailable" = "Network connection is unavailable.";
+
+/* Global */
+"loading.global" = "Loading...";
+"deeplink.placeholder" = "Deep link handling is ready for future routes.";
+"onboarding.placeholder" = "Onboarding placeholder";
